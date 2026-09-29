@@ -10,9 +10,9 @@
 
 | Mục | Nội dung |
 |-----|----------|
-| Họ và tên | (điền họ tên) |
-| Mã học viên | (điền mã học viên) |
-| Repo | (điền link repo K4-L3B-DAY12-HoVaTen-MSSV-CloudServicesAndDeployment) |
+| Họ và tên | Lê Thanh Tịnh |
+| Mã học viên | 02449 |
+| Repo | https://github.com/lttinh/K4-L3B-DAY12-LeThanhTinh-02449-CloudServicesAndDeployment |
 
 ## Service
 
